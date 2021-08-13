@@ -22,6 +22,7 @@ A curated list of awesome machine learning resources to help get started with Ma
 
 - [Stanford](https://see.stanford.edu/Course/CS229): CS229 Machine Learning (Lectures)
 - [Coursera](https://www.coursera.org/learn/machine-learning): Machine Learning (11 week course)
+- [Sebastian Raschka](https://sebastianraschka.com/blog/2021/dl-course.html): Introduction to Deep Learning
 
 ## Deep learning
 
@@ -36,3 +37,5 @@ A curated list of awesome machine learning resources to help get started with Ma
   > It might be useful to build a model using Simulink to visualize the process, and have a look at the code generated to have a better grasp of how the logic in structured.
 
 ## Literature
+
+- [Arxiv](https://arxiv.org/pdf/1512.03385.pdf): Deep Residual Networks for Image Recognition
